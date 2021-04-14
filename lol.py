@@ -15,5 +15,5 @@ def amogus(name):
     print(name + " импостер")
 
 def gitler(name):
-    print('gitler killed',name)
+    print('gitler killed ',name)
 
